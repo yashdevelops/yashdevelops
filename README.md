@@ -1,10 +1,11 @@
-### Hi there 👋, Yash here!
+<h1> ### Hi there 👋, YashDevelops here! </h1>
 
 <a href="https://twitter.com/dedasfuck">
   <img align="left" alt="dedasfuck | Twitter" width="21px" src="https://raw.githubusercontent.com/yashdevelops/yashdevelops/master/assets/twitter.png"/>
 </a>
 </br>
 
+</br>
 - 🌱 I’m currently learning Android Studio / Flutter / Dart / Kotlin
 - 📫 How to reach me: <a href="https://twitter.com/dedasfuck">@dedasfuck</a> 
 
