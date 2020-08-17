@@ -1,7 +1,10 @@
 <h1> Hi there 👋, YashDevelops here! </h1>
-
+</br>
+</br>
+<h3> You can reach out to me through, </h3>
 <a href="https://twitter.com/dedasfuck">
-  <img align="left" alt="dedasfuck | Twitter" width="21px" src="https://raw.githubusercontent.com/yashdevelops/yashdevelops/master/assets/twitter.png"/>
+  <img align="left" alt="dedasfuck | Twitter" width="21px" src="https://raw.githubusercontent.com/yashdevelops/yashdevelops/master/assets/twitter.png"/> <a href="https://twitter.com/dedasfuck">
+  <img align="left" alt="dedasfuck | Twitter" width="21px" src="https://raw.githubusercontent.com/yashdevelops/yashdevelops/master/assets/discord.png"/>
 </a>
 </br>
 </br>
