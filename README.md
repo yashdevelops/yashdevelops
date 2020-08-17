@@ -10,6 +10,6 @@
 - 📫 How to reach me: <a href="https://twitter.com/dedasfuck">@dedasfuck</a> 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=officialyashx&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=officiayashxa&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=yashdevelops&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=yashdevelops&layout=compact)
 
