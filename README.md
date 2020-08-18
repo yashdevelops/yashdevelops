@@ -24,13 +24,12 @@
 </br>
 
 ### Download My Apps 😋:
-[<img align="left" alt="nerdystore" width="200px" src="https://i.imgur.com/qrMMraG.png" />][nerdystore]<p>
+[<img align="left" alt="nerdystore" width="200px" src="https://i.imgur.com/qrMMraG.png" />][nerdystore]
 
-</br>
-</br>
+
 ### Donate Me a 'BEER'🍻 :
 
-
+<br>
 <img src="https://i.imgur.com/FsG4n9Z.png" style="max-width:100%;">
 
 [website]: https://wallloop.online
