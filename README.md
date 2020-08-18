@@ -23,10 +23,10 @@
 
 </br>
 
-### Download My Apps 😋:
+### Download My Android Apps 😋:
 [<img align="left" alt="nerdystore" width="200px" src="https://i.imgur.com/qrMMraG.png" />][nerdystore]
 
-
+<br>
 ### Donate Me a 'BEER'🍻 :
 
 <br>
