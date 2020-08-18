@@ -14,7 +14,7 @@
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="YashDevelops Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-### Connect with me:
+### Connect with me 💬 :
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -23,20 +23,13 @@
 
 </br>
 
-### Download My Apps:
+### Download My Apps 😋:
 [<img align="left" alt="nerdystore" width="200px" src="https://i.imgur.com/qrMMraG.png" />][nerdystore]
 
 </br>
 
-</br>
-<p>
-<details>
-  <summary>:zap: Github Stats</summary>
+### Donate Me a 'BEER'🍻 :
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=yashdevelops&show_icons=true&hide_border=true" />
-
-</details>
-</br>
 
 <img src="https://i.imgur.com/FsG4n9Z.png" style="max-width:100%;">
 
