@@ -23,9 +23,9 @@
 </br>
 
 ### Download My Apps:
-[<img align="left" alt="nerdystore" width="30px" src="https://i.imgur.com/qrMMraG.png" />][nerdystore]
+[<img align="left" alt="nerdystore" width="200px" src="https://i.imgur.com/qrMMraG.png" />][nerdystore]
 
-
+</br>
 ### Donate a little to help me keep going:
 
 <details>
