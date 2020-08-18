@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=WallBerry.online&style=for-the-badge&url=https%3A%2F%2Fwallloop.online)](https://wallloop.online)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DEDASFUCK?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fyashdevelops&screen_name=dedasfuck)
 
-## I'm a Dentist, Learner, Hobby Developer, Blogger and a Reader 😀
+### I'm a Dentist, Learner, Hobby Developer, Blogger and a Reader 😀
 
 - 🔭 I’m currently working on a Android Studio, Flutter and Kotlin.
 - 🌱 I’m currently learning everything 🤣
@@ -24,8 +24,9 @@
 
 ### Download My Apps:
 [<img align="left" alt="nerdystore" width="200px" src="https://i.imgur.com/qrMMraG.png" />][nerdystore]
-<br>
 
+
+###
 <details>
   <summary>:zap: Github Stats</summary>
 
