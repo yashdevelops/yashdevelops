@@ -26,9 +26,6 @@
 [<img align="left" alt="nerdystore" width="200px" src="https://i.imgur.com/qrMMraG.png" />][nerdystore]
 
 </br>
-</br>
-### Donate a little to help me keep going:
-</br>
 <details>
   <summary>:zap: Github Stats</summary>
 
