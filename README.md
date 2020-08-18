@@ -23,6 +23,7 @@
 </br>
 
 ### Download My Apps:
+[<img align="left" alt="nerdystore" width="30px" src="https://i.imgur.com/qrMMraG.png" />][nerdystore]
 
 
 ### Donate a little to help me keep going:
@@ -40,5 +41,5 @@
 [twitter]: https://twitter.com/dedasfuck
 [youtube]: https://youtube.com/dedasfuck
 [instagram]: https://instagram.com/nerdystore
-
+[nerdystore]: https://www.pling.com/p/1408798
 
