@@ -20,13 +20,15 @@
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br>
+
+</br>
 
 ### Download My Apps:
 [<img align="left" alt="nerdystore" width="200px" src="https://i.imgur.com/qrMMraG.png" />][nerdystore]
 
+</br>
 
-###
+</br>
 <details>
   <summary>:zap: Github Stats</summary>
 
@@ -34,6 +36,7 @@
 
 </details>
 </br>
+
 <img src="https://i.imgur.com/FsG4n9Z.png" style="max-width:100%;">
 
 [website]: https://wallloop.online
