@@ -35,6 +35,8 @@
 
 ### Donate Me a 'BEER'🍻 :
 
+UPI : ASK FOR QR CODE IN TELEGRAM PM's LMAO
+
 <br>
 <img src="https://i.imgur.com/FsG4n9Z.png" style="max-width:100%;">
 
