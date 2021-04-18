@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently working on a Android Studio, Flutter and Kotlin.
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for Photoshop/AE projects.
-- 🥅 2020 Goals: Contribute more to Open Source projects and stay safe from Corona.
+- 👯 I’m looking for Android UI/UX and Photoshop projects.
+- 🥅 2021 Goals: Contribute more to Open Source projects and stay safe from Corona.
 - ⚡ Fun fact: I love music and I have over 130 playlists on Spotify.
 
 ### Spotify Playing 🎧
@@ -23,7 +23,7 @@
 </br>
 
 ### Download My Android Apps 😋:
-[<img align="left" alt="nerdystore" width="200px" src="https://i.imgur.com/qrMMraG.png" />][nerdystore]
+- Coming Soon -
 
 <br>
 <br>
@@ -34,7 +34,9 @@
 
 ### Donate Me a 'BEER'🍻 :
 
-UPI : ASK FOR QR CODE IN TELEGRAM PM's LMAO
+UPI : 
+Paypal :
+(Info will be updated soon)
 
 <br>
 <img src="https://i.imgur.com/FsG4n9Z.png" style="max-width:100%;">
