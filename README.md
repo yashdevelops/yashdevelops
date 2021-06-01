@@ -37,6 +37,6 @@ UPI : officialyashx@oksbi
 [website]: https://wallloop.online
 [twitter]: https://twitter.com/dedasfuck
 [youtube]: https://youtube.com/dedasfuck
-[instagram]: https://instagram.com/nerdystore
+[instagram]: https://instagram.com/framethiscrap
 [nerdystore]: https://www.pling.com/p/1408798
 
