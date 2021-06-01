@@ -1,7 +1,5 @@
 ### Hi there, I'm YASH - aka [YashDevelops][website] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/DEDASFUCK?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fyashdevelops&screen_name=dedasfuck)
-
 ### I'm a Dentist, Learner, Hobby Developer, Blogger and a Reader 😀
 
 - 🔭 I’m currently working on a Android Studio, Flutter and Kotlin.
@@ -22,21 +20,16 @@
 
 </br>
 
-### Download My Android Apps 😋:
-- Coming Soon -
+### What's Poppin 😋:
+1. Working on Icons, Logos and Graphic Designing in various projects.
+2. Just dropped a open source dental health icon (.svg) /Check REPOS
+3. Playing GTA V and Valorant af.
 
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 
 ### Donate Me a 'BEER'🍻 :
 
-UPI : 
-Paypal :
-(Info will be updated soon)
+UPI : officialyashx@oksbi
 
 <br>
 <img src="https://i.imgur.com/FsG4n9Z.png" style="max-width:100%;">
