@@ -2,10 +2,10 @@
 
 ### I'm a Doctor, Learner, Hobby Developer, Blogger and a Reader 😀
 
-- 🔭 I’m currently working on a Android Studio, Flutter and Kotlin.
+- 🔭 I’m currently working on a Android Studio, Photoshop and Lightroom.
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for Android UI/UX and Photoshop projects.
-- 🥅 2021 Goals: Contribute more to Open Source projects and stay safe from Corona.
+- 👯 I’m looking for Android UI/UX and Graphic Desigining projects.
+- 🥅 2022 Goals: Sleeping.
 - ⚡ Fun fact: I love music and I have over 130 playlists on Spotify.
 
 
