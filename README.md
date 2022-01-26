@@ -1,6 +1,6 @@
-### Hi there, I'm YASH - aka [YashDevelops][website] 👋
+### Hi there, I'm Dr. YASH - PSYHIGHCLOUDS 👋
 
-### I'm a Dentist, Learner, Hobby Developer, Blogger and a Reader 😀
+### I'm a Doctor, Learner, Hobby Developer, Blogger and a Reader 😀
 
 - 🔭 I’m currently working on a Android Studio, Flutter and Kotlin.
 - 🌱 I’m currently learning everything 🤣
