@@ -18,8 +18,8 @@
 
 </br>
 
-[twitter]: https://twitter.com/fuckologic
+[twitter]: https://twitter.com/dryashtiwari
 [telegram]: https://t.me/psyhighclouds
-[instagram]: https://instagram.com/framethiscrap
+[instagram]: https://instagram.com/dryashtiwari
 
 
